@@ -1,0 +1,99 @@
+2025-07-29 21:01:57 [main] INFO  uve.Model.Coche.Camioneta - Camioneta, creando una nueva camioneta con los siguientes valores: marca=Toyota, modelo=Hilux, placa=ABC1233
+2025-07-29 21:01:57 [main] INFO  uve.Model.Coche.Camioneta - Camioneta, creando una nueva camioneta con los siguientes valores: marca=Ford, modelo=Ranger, placa=DEF4546
+2025-07-29 21:01:57 [main] INFO  uve.Model.Coche.Automovil - Automóvil, creando un nuevo automóvil con los siguientes valores: marca=Honda, modelo=Civic, placa=GHI7859
+2025-07-29 21:01:57 [main] INFO  uve.Model.Coche.Automovil - Automóvil, creando un nuevo automóvil con los siguientes valores: marca=Chevrolet, modelo=Onix, placa=JKL0122
+2025-07-29 21:01:57 [main] INFO  uve.Model.Taller.Reparacion - Reparación creada: descripcion=Cambio de aceite, costos=250, fechaImplemntacion=20-10-2020, repuesto=Aceite sintético
+2025-07-29 21:01:57 [main] INFO  uve.Model.Taller.Reparacion - Reparación creada: descripcion=Cambio de frenos, costos=400, fechaImplemntacion=10-01-2019, repuesto=Pastillas de freno
+2025-07-29 21:01:57 [main] INFO  uve.Model.Taller.Reparacion - Reparación creada: descripcion=Reparación de motor, costos=1200, fechaImplemntacion=13-06-2015, repuesto=Kit de motor
+2025-07-29 21:01:57 [main] INFO  uve.Model.Taller.Reparacion - Reparación creada: descripcion=Cambio de llantas, costos=800, fechaImplemntacion=31-04-2015, repuesto=Llantas nuevas
+2025-07-29 21:01:57 [main] INFO  uve.Model.Taller.Reparacion - Reparación creada: descripcion=Alineación, costos=150, fechaImplemntacion=28-02-2024, repuesto=Servicio
+2025-07-29 21:01:57 [main] INFO  uve.Model.Taller.Taller - Vehículo Toyota Hilux ha sido agregado al taller.
+2025-07-29 21:01:57 [main] INFO  uve.Model.Taller.Taller - Vehículo Ford Ranger ha sido agregado al taller.
+2025-07-29 21:01:57 [main] INFO  uve.Model.Taller.Taller - Vehículo Honda Civic ha sido agregado al taller.
+2025-07-29 21:01:57 [main] INFO  uve.Model.Taller.Taller - Vehículo Chevrolet Onix ha sido agregado al taller.
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Generando factura al vehiculo: ABC1233 Cantidad de Reparaciones: 3
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Reparaciones traspasadas al historial del vehiculo: ABC1233
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Factura generada exitosamente para el vehiculo: ABC1233
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Generando archivo de factura para el vehiculo: ABC1233
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Archivo de factura generado exitosamente para el vehiculo: ABC1233
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Generando factura al vehiculo: DEF4546 Cantidad de Reparaciones: 2
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Reparaciones traspasadas al historial del vehiculo: DEF4546
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Factura generada exitosamente para el vehiculo: DEF4546
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Generando archivo de factura para el vehiculo: DEF4546
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Archivo de factura generado exitosamente para el vehiculo: DEF4546
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Generando factura al vehiculo: GHI7859 Cantidad de Reparaciones: 2
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Reparaciones traspasadas al historial del vehiculo: GHI7859
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Factura generada exitosamente para el vehiculo: GHI7859
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Generando archivo de factura para el vehiculo: GHI7859
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Archivo de factura generado exitosamente para el vehiculo: GHI7859
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Generando factura al vehiculo: JKL0122 Cantidad de Reparaciones: 3
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Reparaciones traspasadas al historial del vehiculo: JKL0122
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Factura generada exitosamente para el vehiculo: JKL0122
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Generando archivo de factura para el vehiculo: JKL0122
+2025-07-29 21:01:57 [main] INFO  uve.Model.Service.FacturacionService - Archivo de factura generado exitosamente para el vehiculo: JKL0122
+2025-07-29 21:02:41 [main] INFO  uve.Model.Coche.Camioneta - Camioneta, creando una nueva camioneta con los siguientes valores: marca=Toyota, modelo=Hilux, placa=ABC1233
+2025-07-29 21:02:41 [main] INFO  uve.Model.Coche.Camioneta - Camioneta, creando una nueva camioneta con los siguientes valores: marca=Ford, modelo=Ranger, placa=DEF4546
+2025-07-29 21:02:41 [main] INFO  uve.Model.Coche.Automovil - Automóvil, creando un nuevo automóvil con los siguientes valores: marca=Honda, modelo=Civic, placa=GHI7859
+2025-07-29 21:02:41 [main] INFO  uve.Model.Coche.Automovil - Automóvil, creando un nuevo automóvil con los siguientes valores: marca=Chevrolet, modelo=Onix, placa=JKL0122
+2025-07-29 21:02:41 [main] INFO  uve.Model.Taller.Reparacion - Reparación creada: descripcion=Cambio de aceite, costos=250, fechaImplemntacion=20-10-2020, repuesto=Aceite sintético
+2025-07-29 21:02:41 [main] INFO  uve.Model.Taller.Reparacion - Reparación creada: descripcion=Cambio de frenos, costos=400, fechaImplemntacion=10-01-2019, repuesto=Pastillas de freno
+2025-07-29 21:02:41 [main] INFO  uve.Model.Taller.Reparacion - Reparación creada: descripcion=Reparación de motor, costos=1200, fechaImplemntacion=13-06-2015, repuesto=Kit de motor
+2025-07-29 21:02:41 [main] INFO  uve.Model.Taller.Reparacion - Reparación creada: descripcion=Cambio de llantas, costos=800, fechaImplemntacion=31-04-2015, repuesto=Llantas nuevas
+2025-07-29 21:02:41 [main] INFO  uve.Model.Taller.Reparacion - Reparación creada: descripcion=Alineación, costos=150, fechaImplemntacion=28-02-2024, repuesto=Servicio
+2025-07-29 21:02:41 [main] INFO  uve.Model.Taller.Taller - Vehículo Toyota Hilux ha sido agregado al taller.
+2025-07-29 21:02:41 [main] INFO  uve.Model.Taller.Taller - Vehículo Ford Ranger ha sido agregado al taller.
+2025-07-29 21:02:41 [main] INFO  uve.Model.Taller.Taller - Vehículo Honda Civic ha sido agregado al taller.
+2025-07-29 21:02:41 [main] INFO  uve.Model.Taller.Taller - Vehículo Chevrolet Onix ha sido agregado al taller.
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Generando factura al vehiculo: ABC1233 Cantidad de Reparaciones: 3
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Reparaciones traspasadas al historial del vehiculo: ABC1233
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Factura generada exitosamente para el vehiculo: ABC1233
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Generando archivo de factura para el vehiculo: ABC1233
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Archivo de factura generado exitosamente para el vehiculo: ABC1233
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Generando factura al vehiculo: DEF4546 Cantidad de Reparaciones: 2
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Reparaciones traspasadas al historial del vehiculo: DEF4546
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Factura generada exitosamente para el vehiculo: DEF4546
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Generando archivo de factura para el vehiculo: DEF4546
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Archivo de factura generado exitosamente para el vehiculo: DEF4546
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Generando factura al vehiculo: GHI7859 Cantidad de Reparaciones: 2
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Reparaciones traspasadas al historial del vehiculo: GHI7859
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Factura generada exitosamente para el vehiculo: GHI7859
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Generando archivo de factura para el vehiculo: GHI7859
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Archivo de factura generado exitosamente para el vehiculo: GHI7859
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Generando factura al vehiculo: JKL0122 Cantidad de Reparaciones: 3
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Reparaciones traspasadas al historial del vehiculo: JKL0122
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Factura generada exitosamente para el vehiculo: JKL0122
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Generando archivo de factura para el vehiculo: JKL0122
+2025-07-29 21:02:41 [main] INFO  uve.Model.Service.FacturacionService - Archivo de factura generado exitosamente para el vehiculo: JKL0122
+2025-07-29 21:03:38 [main] INFO  uve.Model.Coche.Camioneta - Camioneta, creando una nueva camioneta con los siguientes valores: marca=Toyota, modelo=Hilux, placa=ABC1233
+2025-07-29 21:03:38 [main] INFO  uve.Model.Coche.Camioneta - Camioneta, creando una nueva camioneta con los siguientes valores: marca=Ford, modelo=Ranger, placa=DEF4546
+2025-07-29 21:03:38 [main] INFO  uve.Model.Coche.Automovil - Automóvil, creando un nuevo automóvil con los siguientes valores: marca=Honda, modelo=Civic, placa=GHI7859
+2025-07-29 21:03:38 [main] INFO  uve.Model.Coche.Automovil - Automóvil, creando un nuevo automóvil con los siguientes valores: marca=Chevrolet, modelo=Onix, placa=JKL0122
+2025-07-29 21:03:38 [main] INFO  uve.Model.Taller.Reparacion - Reparación creada: descripcion=Cambio de aceite, costos=250, fechaImplemntacion=20-10-2020, repuesto=Aceite sintético
+2025-07-29 21:03:38 [main] INFO  uve.Model.Taller.Reparacion - Reparación creada: descripcion=Cambio de frenos, costos=400, fechaImplemntacion=10-01-2019, repuesto=Pastillas de freno
+2025-07-29 21:03:38 [main] INFO  uve.Model.Taller.Reparacion - Reparación creada: descripcion=Reparación de motor, costos=1200, fechaImplemntacion=13-06-2015, repuesto=Kit de motor
+2025-07-29 21:03:38 [main] INFO  uve.Model.Taller.Reparacion - Reparación creada: descripcion=Cambio de llantas, costos=800, fechaImplemntacion=31-04-2015, repuesto=Llantas nuevas
+2025-07-29 21:03:38 [main] INFO  uve.Model.Taller.Reparacion - Reparación creada: descripcion=Alineación, costos=150, fechaImplemntacion=28-02-2024, repuesto=Servicio
+2025-07-29 21:03:38 [main] INFO  uve.Model.Taller.Taller - Vehículo Toyota Hilux ha sido agregado al taller.
+2025-07-29 21:03:38 [main] INFO  uve.Model.Taller.Taller - Vehículo Ford Ranger ha sido agregado al taller.
+2025-07-29 21:03:38 [main] INFO  uve.Model.Taller.Taller - Vehículo Honda Civic ha sido agregado al taller.
+2025-07-29 21:03:38 [main] INFO  uve.Model.Taller.Taller - Vehículo Chevrolet Onix ha sido agregado al taller.
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Generando factura al vehiculo: ABC1233 Cantidad de Reparaciones: 3
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Reparaciones traspasadas al historial del vehiculo: ABC1233
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Factura generada exitosamente para el vehiculo: ABC1233
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Generando archivo de factura para el vehiculo: ABC1233
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Archivo de factura generado exitosamente para el vehiculo: ABC1233
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Generando factura al vehiculo: DEF4546 Cantidad de Reparaciones: 2
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Reparaciones traspasadas al historial del vehiculo: DEF4546
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Factura generada exitosamente para el vehiculo: DEF4546
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Generando archivo de factura para el vehiculo: DEF4546
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Archivo de factura generado exitosamente para el vehiculo: DEF4546
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Generando factura al vehiculo: GHI7859 Cantidad de Reparaciones: 2
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Reparaciones traspasadas al historial del vehiculo: GHI7859
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Factura generada exitosamente para el vehiculo: GHI7859
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Generando archivo de factura para el vehiculo: GHI7859
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Archivo de factura generado exitosamente para el vehiculo: GHI7859
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Generando factura al vehiculo: JKL0122 Cantidad de Reparaciones: 3
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Reparaciones traspasadas al historial del vehiculo: JKL0122
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Factura generada exitosamente para el vehiculo: JKL0122
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Generando archivo de factura para el vehiculo: JKL0122
+2025-07-29 21:03:38 [main] INFO  uve.Model.Service.FacturacionService - Archivo de factura generado exitosamente para el vehiculo: JKL0122

@@ -1,0 +1,16 @@
+Factura del Vehiculo: GHI7859
+Marca: Honda
+Modelo: Civic
+Reparaciones:
+- Descripción: Cambio de frenos, Costo: 400, Fecha: 10-01-2019, Pieza: Pastillas de freno
+- Descripción: Alineación, Costo: 150, Fecha: 28-02-2024, Pieza: Servicio
+
+
+Total: 550
+
+--- Registro de logs del proceso ---
+
+Generando factura al vehiculo: GHI7859 Cantidad de Reparaciones: 2
+Reparaciones traspasadas al historial del vehiculo: GHI7859
+Factura generada exitosamente para el vehiculo: GHI7859
+

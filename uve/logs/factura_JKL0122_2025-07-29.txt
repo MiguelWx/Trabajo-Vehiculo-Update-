@@ -1,0 +1,17 @@
+Factura del Vehiculo: JKL0122
+Marca: Chevrolet
+Modelo: Onix
+Reparaciones:
+- Descripción: Cambio de aceite, Costo: 250, Fecha: 20-10-2020, Pieza: Aceite sintético
+- Descripción: Reparación de motor, Costo: 1200, Fecha: 13-06-2015, Pieza: Kit de motor
+- Descripción: Cambio de llantas, Costo: 800, Fecha: 31-04-2015, Pieza: Llantas nuevas
+
+
+Total: 2250
+
+--- Registro de logs del proceso ---
+
+Generando factura al vehiculo: JKL0122 Cantidad de Reparaciones: 3
+Reparaciones traspasadas al historial del vehiculo: JKL0122
+Factura generada exitosamente para el vehiculo: JKL0122
+

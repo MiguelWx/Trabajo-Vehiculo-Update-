@@ -1,0 +1,16 @@
+Factura del Vehiculo: DEF4546
+Marca: Ford
+Modelo: Ranger
+Reparaciones:
+- Descripción: Reparación de motor, Costo: 1200, Fecha: 13-06-2015, Pieza: Kit de motor
+- Descripción: Cambio de llantas, Costo: 800, Fecha: 31-04-2015, Pieza: Llantas nuevas
+
+
+Total: 2000
+
+--- Registro de logs del proceso ---
+
+Generando factura al vehiculo: DEF4546 Cantidad de Reparaciones: 2
+Reparaciones traspasadas al historial del vehiculo: DEF4546
+Factura generada exitosamente para el vehiculo: DEF4546
+

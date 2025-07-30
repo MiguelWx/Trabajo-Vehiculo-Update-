@@ -1,0 +1,17 @@
+Factura del Vehiculo: ABC1233
+Marca: Toyota
+Modelo: Hilux
+Reparaciones:
+- Descripción: Cambio de aceite, Costo: 250, Fecha: 20-10-2020, Pieza: Aceite sintético
+- Descripción: Cambio de frenos, Costo: 400, Fecha: 10-01-2019, Pieza: Pastillas de freno
+- Descripción: Alineación, Costo: 150, Fecha: 28-02-2024, Pieza: Servicio
+
+
+Total: 800
+
+--- Registro de logs del proceso ---
+
+Generando factura al vehiculo: ABC1233 Cantidad de Reparaciones: 3
+Reparaciones traspasadas al historial del vehiculo: ABC1233
+Factura generada exitosamente para el vehiculo: ABC1233
+
