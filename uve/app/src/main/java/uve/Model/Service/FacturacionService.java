@@ -15,7 +15,7 @@ import org.apache.logging.log4j.Logger;
 
 public class FacturacionService  {
 
-      private static final String rutaArchivo = "app\\src\\main\\resources\\Logs\\";  
+      private static final String rutaArchivo = "logs/";  
       private static final Logger logger = LogManager.getLogger(FacturacionService.class.getName());
 
       
